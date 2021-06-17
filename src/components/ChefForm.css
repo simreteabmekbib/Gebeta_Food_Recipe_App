@@ -1,0 +1,41 @@
+.title {
+    border: 1px solid rgb(37, 216, 240);
+    background-color: red;
+    color: white;
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+}
+
+.container1 {
+    border: 1px gray solid;
+    width: 50%!important;
+}
+
+#servings-times2, #servings-times4 {
+    width: 60%!important;
+    text-align: right;
+}
+
+.formBox {
+    display: flex;
+    justify-content: center;
+    width: 85%!important;
+    margin-left: 45px;
+}
+
+select {
+    width: 62%!important;
+}
+
+#servings-times, #servings-times3, #servings-times5 {
+    width: 60%!important;
+    text-align: left;
+}
+
+hr {
+    height: 3px;
+    background-color: #ccc;
+    border: none;
+    margin-top: 6%;
+}

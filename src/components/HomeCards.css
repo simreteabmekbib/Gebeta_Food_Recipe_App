@@ -1,0 +1,45 @@
+.veg {
+    top: 87.2%;
+    left: 0%;
+    padding: 0.15% 12%;
+    width: 100%;
+}
+
+.non-veg {
+    top: 87.2%;
+    left: 0%;
+    padding: 0% 12%;
+    width: 100%;
+}
+
+.b-fast {
+    top: 87.2%;
+    left: 0;
+    padding: 0% 12%;
+    width: 100%;
+}
+
+.f-food {
+    top: 87%;
+    left: 0%;
+    padding: 0.15% 9.5%;
+    width: 100%;
+}
+
+.alcoholic {
+    top: 87%;
+    left: 0%;
+    padding: 0.15% 9.6%;
+    width: 100%;
+}
+
+.n-alcoholic {
+    top: 87%;
+    left: 0%;
+    padding: 0.15% 8.3%;
+    width: 100%;
+}
+
+.r-mr {
+    margin-right: 6%;
+}

@@ -1,0 +1,27 @@
+.title-box {
+    width: 70%;
+    border: solid 2px rgb(138, 25, 17);
+    border-radius: 5px;
+}
+
+.title-text {
+    font-family: 'Rubik', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.rec-desc {
+    font-family: 'Source Serif Pro', serif;
+    color: rgb(180, 27, 16);
+    text-transform: uppercase;
+}
+
+.title-addons {
+    font-family: 'Rubik', sans-serif;
+    color:rgb(180, 27, 16);
+    text-transform: uppercase;
+}
+
+.revs {
+    font-size: 40px;
+}

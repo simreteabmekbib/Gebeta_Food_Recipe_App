@@ -1,0 +1,40 @@
+.reviews {
+    width: 80%;
+    margin-left: 10%;
+}
+
+li::marker {
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.h3 {
+    text-transform: uppercase;
+}
+
+.username{
+    font-family: 'Source Serif Pro', serif;
+    color: rgb(211, 25, 12);
+    text-transform: uppercase;
+}
+ 
+.rev-stars{
+    font-family: 'Source Serif Pro', serif;
+    color: rgb(211, 25, 12);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.rev-text {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 14px;
+    color: rgb(97, 97, 97);
+    text-align: justify;
+}
+
+.bold-hr {
+    border-bottom: 3px rgb(68, 68, 68) solid;
+}

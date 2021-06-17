@@ -1,0 +1,44 @@
+.r-home {
+    height: 60vh!important;
+    margin-top: -3%!important;
+    width: 100%;
+}
+
+.r-centered1 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.find_rec {
+    font-size: 40px;
+    color: white;
+}
+
+/* Centered text */
+.r-centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+
+.search_btn {
+    border-radius: 10px;
+    background-color: saddlebrown;
+    height: 45px;
+    color: white;
+    font-size: 16px;
+}
+
+.icon {
+    color: white;
+}
+
+.search_box {
+    border-radius: 10px;
+    height: 45px;
+    width: 270px;
+}

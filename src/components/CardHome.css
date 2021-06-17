@@ -1,0 +1,17 @@
+.food-imgs {
+    width: 25rem;
+}
+
+.r-card-img {
+    height: 40vh;
+    position: relative;
+}
+
+.img-text {
+    position: absolute;
+    color: white;
+    background-color: rgba(26, 25, 25, 0.596);
+    font-size: 25px;
+    font-weight: bold;
+}
+
