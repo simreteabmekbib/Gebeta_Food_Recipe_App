@@ -13,6 +13,7 @@ Users can register to our website as a chef or simply a member who wants to view
 *  Flask
 
 **Getting Started**
+
 The project includes folders for both the react frontend application and rest api built with flask.
 The application works by running both the rest api and frontend application locally. To run the rest api: execute the command “npm run start-flask-api”. Then, on another command line execute the command “npm start” to run the react front end application.
 
